@@ -1,6 +1,8 @@
 git config --global http.sslverify "false"
 baixei gethubdesktop
 
+29/09
+
 
 # Gripen
  
